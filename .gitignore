@@ -1,0 +1,14 @@
+# MSVS project.
+bin
+obj
+*.suo
+
+# Application files.
+*.exe
+*.log
+
+# Common trash files.
+*.bak
+*.tmp
+*.log
+*.~*
